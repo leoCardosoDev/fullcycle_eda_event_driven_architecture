@@ -131,7 +131,6 @@ func (suite *EventDispatcherTestSuite) TestEventDispatcher_Remove() {
 
 }
 
-
 type MockHandler struct {
 	mock.Mock
 }
